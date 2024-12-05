@@ -13,7 +13,7 @@ editor_options:
     wrap: 72
 ---
 
-## Objectives
+# Objectives
 
 The aim of this project is to use the GRROE Lab's Master Intake Data for
 Red Mangroves to determine:
