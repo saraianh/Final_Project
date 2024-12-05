@@ -485,7 +485,7 @@ ggplot(RHMA_collection_monthly, aes(x = factor(CollectionMonth, sprintf("%02d", 
 > collect more or less?
 
 | Collection Year | Number of Collections | Total Number of Mangroves Collected | Average Mangs Per Collection |
-|:----------------:|:----------------:|:----------------:|:----------------:|
+|:---------------:|:---------------------:|:-----------------------------------:|:----------------------------:|
 |      2021       |           2           |                 393                 |         393/2= \~197         |
 |      2022       |           7           |                 147                 |          147/7 = 21          |
 |      2023       |          43           |                2221                 |        2221/43 = \~52        |
