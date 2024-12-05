@@ -592,7 +592,7 @@ ggplot(results, aes(x = CollectionSite, y = Ratio, fill = CollectionSite)) +
   facet_wrap(~ CollectionYear)
 ```
 
-# Map of Collection Sites
+## Map of Collection Sites
 
 <!--Map of Collection Sites -->
 
